@@ -1,0 +1,15 @@
+{
+  "name": "get-repo-size",
+  "version": "1.0.0",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "npx cowsay \"mooo\""
+  },
+  "keywords": [],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "seafret": "^0.0.2"
+  }
+}
